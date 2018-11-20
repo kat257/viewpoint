@@ -53,7 +53,7 @@ If you’re thinking, “Why redefine point of view? The old way is working for 
 However, if you are confused about point of view, aggravated by a lack of precise descriptions, or frustrated by critics who don’t accept your avant-garde use of mixed persons or multiple camera angles, read on.
 ## Aspects Charted
 For those who enjoy a simple diagram, this is my proposal in a one page chart.
-![](IMG_1969.JPG)
+![The seven aspects of viewpoint that contribute to building a narrative voice, charted.](SevenAspects.jpg "Seven Aspects of Viewpoint Chart")
 ## Aspects Described
 The order in which I list aspects of point of view is idiosyncratic, but deliberate, reflecting the way I think of them: voice is obvious, and controls much of the selection between traditional points of view; credibility is wrapped up with voice; person, perspective, percipience and presence are the core of traditional points of view, and number tells the reader whether there is only one point of view or more, and so comes last or first naturally. 
 1. Voice: Character or Auctor
@@ -68,7 +68,7 @@ In the future, writers might find a way to present a story in first person and s
 4. Perspective: Bodycam or Steadycam
 I’ve adopted terms used in pop culture to offer a grip on this subject. The steadycam is a rig that allows a film technician to follow action smoothly, compensating for shake. In police work, a body camera records events from the physical perspective of an officer. 
 The best way to demonstrate the difference between these two perspectives is with a picture.
-![The difference between bodycam and steadycam](A0AAC58C-58EF-457F-98B6-1653B8D1320A.png "Perspectives")
+![The difference between bodycam and steadycam](BodycamSteadycam.jpg "Perspectives")
 Bodycam perspective is most closely associated with the first person, but it is also used with third person, sometimes referred to as close third. Steadycam perspective is associated with third person, but can be used with first person; for example, an external auctor or internal character may tell the story as an observer.  
 5. Percipience: Percipient or Detached
 The percipience aspect of point of view is divided into one who knows the inner life of one or more characters, who is percipient, and one who does not know the inner life of any character, who is detached.
