@@ -67,8 +67,7 @@ However, the person a story is told in currently dictates whether a character vo
 In the future, writers might find a way to present a story in first person and still be omnipresent and percipient. Writers stretch boundaries all the time, sometimes to acclaim, sometimes approbation. But they will probably keep doing it, and I’m all for it. 
 4. Perspective: Bodycam or Steadycam
 I’ve adopted terms used in pop culture to offer a grip on this subject. The steadycam is a rig that allows a film technician to follow action smoothly, compensating for shake. In police work, a body camera records events from the physical perspective of an officer. 
-The best way to demonstrate the difference between these two perspectives is with a picture.
-![The difference between bodycam and steadycam](BodycamSteadycam.jpg "Perspectives")
+(The best way to demonstrate the difference between the two perspectives is with a picture. See the end of the list.)
 Bodycam perspective is most closely associated with the first person, but it is also used with third person, sometimes referred to as close third. Steadycam perspective is associated with third person, but can be used with first person; for example, an external auctor or internal character may tell the story as an observer.  
 5. Percipience: Percipient or Detached
 The percipience aspect of point of view is divided into one who knows the inner life of one or more characters, who is percipient, and one who does not know the inner life of any character, who is detached.
@@ -76,7 +75,9 @@ Teasing apart the concept of omniscience into percipience and presence accommoda
 6. Presence: Limited or Omnipresent
 A limited viewpoint is able to see the story from only one perspective. An omnipresent viewpoint sees the story from any perspective. The reader may feel cheated when a writer using omnipresent viewpoint is selective in revealing information that should be available to this satellite-level view.
 7. Number: Single or Multiple
-The writer often takes up perspectives in multiple characters—in fact, it almost defines the ‘omniscient’ point of view. But first person can also be deployed using several characters, even an auctorial voice supplemented by several character viewpoints. I suggest that these be described as multiple, rather than single, viewpoints. _Easy. _
+The writer often takes up perspectives in multiple characters—in fact, it almost defines the ‘omniscient’ point of view. But first person can also be deployed using several characters, even an auctorial voice supplemented by several character viewpoints. I suggest that these be described as multiple, rather than single, viewpoints. _Easy._
+
+![The difference between bodycam and steadycam](BodycamSteadycam.jpg "Perspectives")
 ## The Five Primary Viewpoints
 I don’t know how many points of view are in use in fiction, or how many may be deployed by the next great fiction writer, but I’m sure some critics will dismiss them without any recognition that they are the latest way to convey story to a new generation of readers. 
 For now, I suggest that the recognized viewpoints should be identified more carefully, and understood to exist among a trove of other options. Here are my suggestions, which use Presence, Percipience and Person to name the base point of view, and present other aspects (credibility, voice, perspective), to further identify them.
