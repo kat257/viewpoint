@@ -64,7 +64,7 @@ Integral to choosing a voice, whether character or auctor, is credibility. Relia
 3. Person: First or Third
 Person is often held up as the central pillar of point of view, but I think it is, at most, a pilaster, appearing to support the story, but actually just a part of it. Second person functions similarly to either first or third. 
 However, the person a story is told in currently dictates whether a character voice is able to be percipient with other viewpoints, omnipresent, and whether the story is told from one or another perspective, so it’s an important choice. 
-In the future, writers might find a way to present a story in first person and still be omnipresent and percipient. Writers stretch boundaries all the time, sometimes to acclaim, sometimes approbation. But they will probably keep doing it, and I’m all for it. 
+In the future, writers might find a way to present a story in first person and still be omnipresent and percipient. Writers stretch boundaries all the time, sometimes to acclaim, sometimes opprobrium. But they will probably keep doing it, and I’m all for it. 
 4. Perspective: Bodycam or Steadycam
 I’ve adopted terms used in pop culture to offer a grip on this subject. The steadycam is a rig that allows a film technician to follow action smoothly, compensating for shake. In police work, a body camera records events from the physical perspective of an officer. 
 (The best way to demonstrate the difference between the two perspectives is with a picture. See the end of the list.)
